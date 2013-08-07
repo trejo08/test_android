@@ -4,5 +4,7 @@
     <string name="app_name">test_example</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
+    <string name="name">Please type your name:</string>
+    <string name="hello">Hello Friend</string>
 
 </resources>

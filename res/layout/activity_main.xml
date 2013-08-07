@@ -12,7 +12,7 @@
         android:id="@+id/LblNombre"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/nombre" />
+        android:text="@string/name" />
  
     <EditText
         android:id="@+id/TxtNombre"
@@ -20,11 +20,14 @@
         android:layout_height="wrap_content"
         android:inputType="text">
     </EditText>
- 
+
     <Button
         android:id="@+id/BtnHola"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/hola" />
+        android:layout_alignLeft="@+id/TxtNombre"
+        android:layout_below="@+id/TxtNombre"
+        android:layout_marginTop="26dp"
+        android:text="@string/hello" />
 
 </RelativeLayout>
