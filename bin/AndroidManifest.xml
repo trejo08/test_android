@@ -22,6 +22,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity 
+            android:name="com.example.test_example.frmGretting"
+            android:label="@string/layout_name_saludo">
+        </activity>
     </application>
 
 </manifest>

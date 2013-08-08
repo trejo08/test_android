@@ -1,10 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-
+    
+    <!-- Controles para el MainActivity -->
     <string name="app_name">test_example</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
     <string name="name">Please type your name:</string>
-    <string name="hello">Hello Friend</string>
+    <string name="cmdPushMain">Hello Friend</string>
+    
+    <!-- Controles para la pantalla saludo -->
+    <!--  >string name="lblGreeting">Welcome to my first AndroidApp</string -->
+    <string name="layout_name_saludo">Bienvenido Master</string>
+    
 
 </resources>
